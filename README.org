@@ -1,0 +1,9 @@
+* wu-decimal
+
+Arbitrary-precision decimal arithmetic
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/Wukix/wu-decimal.git |
+| commit  | 5b348bd                                     |
+| systems | wu-decimal                                  |
+|---------+---------------------------------------------|
