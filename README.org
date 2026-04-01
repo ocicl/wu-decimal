@@ -7,3 +7,4 @@ Arbitrary-precision decimal arithmetic
 | commit  | 5b348bd                                     |
 | systems | wu-decimal                                  |
 |---------+---------------------------------------------|
+ 
